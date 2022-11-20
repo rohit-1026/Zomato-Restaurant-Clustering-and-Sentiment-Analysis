@@ -43,6 +43,12 @@ Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review
 
-# Performance Metrics
+# Visualisations 
+
+![image](https://user-images.githubusercontent.com/111069324/202888662-d24051e4-42ba-4d9b-958c-b00961bdec36.png)
+
+
+![image](https://user-images.githubusercontent.com/111069324/202888638-1624eeab-feed-432c-a2c2-9b598e746314.png)
+
 
 # Conclusion
