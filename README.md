@@ -57,7 +57,7 @@ Pictures : No. of pictures posted with review
 
 Rohit Pawar | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](www.linkedin.com/in/rohitpawar26/)
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/rohitpawar26/)
 
 Contact me for Data Science Project Collaborations
 
