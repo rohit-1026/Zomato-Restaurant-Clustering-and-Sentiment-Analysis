@@ -1,7 +1,5 @@
 # Zomato-Restaurant-Clustering-and-Sentiment-Analysis
 
-Zomato is an Indian restaurant aggregator and food delivery start-up founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants, and also has food delivery options from partner restaurants in select cities.
-
 
 ![image](https://user-images.githubusercontent.com/111069324/202712156-027f598f-2147-45f2-b792-e22b66ad8ba8.png)
 
@@ -54,3 +52,21 @@ Pictures : No. of pictures posted with review
 
 
 # Conclusion
+
+# 📜 Credits
+
+Rohit Pawar | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](www.linkedin.com/in/RohitPawar26)
+
+Contact me for Data Science Project Collaborations
+
+
+
+
+
+# 📚 References
+
+1.  GeekforGeeks
+2.  Kaggle
+3.  Analytics Vidya
