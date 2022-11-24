@@ -45,13 +45,20 @@ Pictures : No. of pictures posted with review
 
 # Visualisations 
 
-![image](https://user-images.githubusercontent.com/111069324/202888662-d24051e4-42ba-4d9b-958c-b00961bdec36.png)
+![image](https://user-images.githubusercontent.com/111069324/203756413-3da57f98-94f5-4435-b35d-608559863de8.png)
 
 
-![image](https://user-images.githubusercontent.com/111069324/202888638-1624eeab-feed-432c-a2c2-9b598e746314.png)
+   ![image](https://user-images.githubusercontent.com/111069324/203756593-a34e565a-ba59-4c2b-aecd-a27597273406.png)
+
 
 
 # Conclusion
+
+1. The best restaurants in Hyderabad are AB's - Absolute Barbecues, B-Dubs, and 3B's - Buddies, Bar & Barbecue.
+2. The most popular cuisines are North Indian, Chinese, Continental, and Hyderabadi.
+3. The restaurants in Hyderabad have a per person cost range of 150 INR to 2800 INR. The cheapest is the food joint called Mohammedia Shawarma and the costliest restaurant is Collage - Hyatt Hyderabad Gachibowli.
+4. Based on basic cost-benefit analysis it can be concluded that it is important to separate out the restaurants with the lowest rating in order to improve its overall customer experience. These restaurants were small food joints or restaurants with high prices according to the food they are serving. Efforts should be made to advertise more and analyze the reviews, especially for these restaurants, and work on them.
+
 
 # 📜 Credits
 
@@ -68,6 +75,6 @@ Rohit Pawar | Data Scientist | Machine Learning Engineer | Deep Learning enthusi
 
 # 📚 References
 
-1.  GeekforGeeks
+1.  GeekforGeeks (https://www.geeksforgeeks.org/removing-stop-words-nltk-python/?ref=lbp)
 2.  Kaggle
 3.  Analytics Vidya
